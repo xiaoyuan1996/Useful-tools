@@ -1,0 +1,4 @@
+Automatic method for urban roads detection and mapping based on remote sensing images
+-------------------------------
+李湘眷, 王彩玲, 孙皓, &amp; 李宇. (2016). 城市遥感图像建筑物仿射协变区域融合检测. <i>光电工程</i>, <i>43</i>(6), 75-82.
+Zhou, Q., Wu, G., Wang, Q., Shi, C., Tong, Y., &amp; Ma, Z. (2010, July). The design and field application of high-resolution pushbroom imaging spectrometer. In <i>Proceedings of the 29th Chinese Control Conference</i> (pp. 3031-3035). IEEE.

@@ -1,0 +1,11 @@
+High quality remote sensing image super-resolution using deep memory connected network
+-------------------------------
+Tsagkatakis, G., Aidini, A., Fotiadou, K., Giannopoulos, M., Pentari, A., &amp; Tsakalides, P. (2019). Survey of deep-learning approaches for remote sensing observation enhancement. <i>Sensors</i>, <i>19</i>(18), 3929.
+Dong, X., Xi, Z., Sun, X., &amp; Gao, L. (2019). Transferred multi-perception attention networks for remote sensing image super-resolution. <i>Remote Sensing</i>, <i>11</i>(23), 2857.
+Dong, X., Sun, X., Jia, X., Xi, Z., Gao, L., &amp; Zhang, B. (2020). Remote Sensing Image Super-Resolution Using Novel Dense-Sampling Networks. <i>IEEE Transactions on Geoscience and Remote Sensing</i>.
+Rohith, G., &amp; Kumar, L. S. (2020). Paradigm shifts in super-resolution techniques for remote sensing applications. <i>The Visual Computer</i>, 1-44.
+Dong, X., Wang, L., Sun, X., Jia, X., Gao, L., &amp; Zhang, B. (2020). Remote Sensing Image Super-Resolution Using Second-Order Multi-Scale Networks. <i>IEEE Transactions on Geoscience and Remote Sensing</i>.
+Li, Y., Iwamoto, Y., Lin, L., &amp; Chen, Y. W. (2020). Parallel-Connected Residual Channel Attention Network for Remote Sensing Image Super-Resolution. In <i>Proceedings of the Asian Conference on Computer Vision</i>.
+Duan, Y., Luo, L., Zhang, Y., &amp; Zhu, H. (2019, December). Image super-resolution via deep residual network. In <i>Eleventh International Conference on Information Optics and Photonics (CIOP 2019)</i> (Vol. 11209, p. 112094D). International Society for Optics and Photonics.
+Wang, X., Wu, Y., Ming, Y., &amp; Lv, H. (2020). Remote Sensing Imagery Super Resolution Based on Adaptive Multi-Scale Feature Fusion Network. <i>Sensors</i>, <i>20</i>(4), 1142.
+Angelanda, T., &amp; Colomo-Palaciosa, R. Deep Learning for Single Image Super-Resolution: A Systematic Mapping Study.

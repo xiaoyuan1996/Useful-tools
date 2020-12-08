@@ -1,0 +1,10 @@
+SEMANTIC SEGMENTATION of AERIAL IMAGERY VIA MULTI-SCALE SHUFFLING CONVOLUTIONAL NEURAL NETWORKS with DEEP SUPERVISION
+-------------------------------
+Griffiths, D., &amp; Boehm, J. (2019). Improving public data for building segmentation from Convolutional Neural Networks (CNNs) for fused airborne lidar and image data using active contours. <i>ISPRS Journal of Photogrammetry and Remote Sensing</i>, <i>154</i>, 70-83.
+Daudt, R. C., Le Saux, B., Boulch, A., &amp; Gousseau, Y. (2019). Multitask learning for large-scale semantic change detection. <i>Computer Vision and Image Understanding</i>, <i>187</i>, 102783.
+Jing, H., Feng, Y., Zhang, W., Zhang, Y., Wang, S., Fu, K., &amp; Chen, K. (2019, July). Effective classification of local climate zones based on multi-source remote sensing data. In <i>IGARSS 2019-2019 IEEE International Geoscience and Remote Sensing Symposium</i> (pp. 2666-2669). IEEE.
+Chen, K., Fu, K., Gao, X., Yan, M., Zhang, W., Zhang, Y., &amp; Sun, X. (2019, July). Effective Fusion of Multi-Modal Data with Group Convolutions for Semantic Segmentation of Aerial Imagery. In <i>IGARSS 2019-2019 IEEE International Geoscience and Remote Sensing Symposium</i> (pp. 3911-3914). IEEE.
+CHEN, L., ZHAO, D., &amp; HEIPKE, C. Complementary Features Learning from RGB and Depth Information for Semantic Image Labelling.
+Feng, Y., Diao, W., Sun, X., Li, J., Chen, K., Fu, K., &amp; Gao, X. (2020). Npaloss: Neighboring Pixel Affinity Loss for Semantic Segmentation in High-Resolution Aerial Imagery. <i>ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences</i>, <i>2</i>, 475-482.
+Ng, H. (2020). Towards Multi-Modal Data Classification.
+Yousefhussiena, M., Kelbeb, D. J., &amp; Salvaggioa, C. (2020). A Nearest Neighbor Network to Extract Digital Terrain Models from 3D Point Clouds. <i>arXiv preprint arXiv:2005.10745</i>.

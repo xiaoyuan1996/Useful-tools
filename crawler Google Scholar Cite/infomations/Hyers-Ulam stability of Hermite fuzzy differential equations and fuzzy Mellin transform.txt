@@ -1,0 +1,4 @@
+Hyers-Ulam stability of Hermite fuzzy differential equations and fuzzy Mellin transform
+-------------------------------
+Ngoc Phung, N., Quoc Ta, B., &amp; Vu, H. (2019). Ulam-Hyers Stability and Ulam-Hyers-Rassias Stability for Fuzzy Integrodifferential Equation. <i>Complexity</i>, <i>2019</i>.
+Jin, Z., &amp; Wu, J. (2020). On the Ulam stability of fuzzy differential equations. <i>AIMS MATHEMATICS</i>, <i>5</i>(6), 6006-6019.

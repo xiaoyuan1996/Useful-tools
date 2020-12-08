@@ -1,0 +1,6 @@
+Ship Instance Segmentation from Remote Sensing Images Using Sequence Local Context Module
+-------------------------------
+Kucharczyk, M., Hay, G. J., Ghaffarian, S., &amp; Hugenholtz, C. H. (2020). Geographic object-based image analysis: A primer and future directions. <i>Remote Sensing</i>, <i>12</i>(12), 2012.
+Potlapally, A., Chowdary, P. S. R., Shekhar, S. R., Mishra, N., Madhuri, C. S. V. D., &amp; Prasad, A. V. V. (2019, December). Instance Segmentation in Remote Sensing Imagery using Deep Convolutional Neural Networks. In <i>2019 International Conference on contemporary Computing and Informatics (IC3I)</i> (pp. 117-120). IEEE.
+Huang, Z., Sun, S., &amp; Li, R. (2020). Fast Single-shot Ship Instance Segmentation Based on Polar Template Mask in Remote Sensing Images. <i>arXiv preprint arXiv:2008.12447</i>.
+Hoeser, T., Bachofer, F., &amp; Kuenzer, C. (2020). Object Detection and Image Segmentation with Deep Learning on Earth Observation Data: A Review—Part II: Applications. <i>Remote Sensing</i>, <i>12</i>(18), 3053.

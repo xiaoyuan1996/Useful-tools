@@ -1,0 +1,7 @@
+Automatic building extraction in high resolution remote sensing image using object-based Boosting method
+-------------------------------
+胡正平, &amp; 杨建秀. (2011). HOG 特征混合模型结合隐 SVM 的感兴趣目标检测定位算法. <i>信号处理</i>, <i>27</i>(8), 1206-1212.
+张正, 王宏琦, 孙显, 巩大亮, &amp; 胡岩峰. (2010). 基于部件的自动目标检测方法研究. <i>电子与信息学报</i>, <i>32</i>(5), 1017-1022.
+孙颖, 张新长, 康停军, 赵小阳, &amp; 张维. (2013). 改进 GAC 模型在点云和影像自动提取建筑物边界中的应用. <i>测绘学报</i>, <i>42</i>(3), 337-343.
+Li, G., An, J., &amp; Wan, Y. (2012). Automatic building extraction based on improved watershed segmentation, mutual information match and snake model. <i>International journal of computer applications in technology</i>, <i>43</i>(2), 147-154.
+Ying, X. U. N., Xin-Zhang, Z. H. A. N. G., Ting-Jun, K. A. N. G., Xiao-Yang, D. I. A. O., &amp; Wei, Z. H. A. N. G. (2013). Improved GAC Model for Automatic Building Extraction from LiDAR Point Clouds and Aerial Image. <i>Acta Geodaetica et Cartographica Sinica</i>, <i>42</i>(3), 0.

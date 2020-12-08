@@ -1,0 +1,11 @@
+Improved Algorithm of Radar Pulse Repetition Interval Deinterleaving Based on Pulse Correlation
+-------------------------------
+Tao, J. W., Yang, C. Z., &amp; Xu, C. W. (2020). Estimation of PRI Stagger in Case of Missing Observations. <i>IEEE Transactions on Geoscience and Remote Sensing</i>.
+Wen, J., Xiongjun, F. U., Jiayun, C., &amp; Rui, Q. I. N. (2020). An improved de-interleaving algorithm of radar pulses based on SOFM with self-adaptive network topology. <i>Journal of Systems Engineering and Electronics</i>, <i>31</i>(4), 712-721.
+Podstrigaev, A. S., Smolyakov, A. V., &amp; Maslov, I. V. (2020). Probability of Pulse Overlap as a Quantitative Indicator of Signal Environment Complexity. <i>Известия высших учебных заведений России. Радиоэлектроника</i>, <i>23</i>(5).
+Jiang, W., Fu, X., &amp; Chang, J. (2020). Improved de-interleaving algorithm of radar pulses based on dual fuzzy vigilance ART. <i>Journal of Systems Engineering and Electronics</i>, <i>31</i>(2), 303-311.
+Jiang, W., &amp; Fu, X. (2020). Improved algorithm for de-interleaving radar signals with overlapping features in the dynamically varying electromagnetic environment. <i>IET Radar, Sonar &amp; Navigation</i>, <i>14</i>(9), 1328-1337.
+Can, O., Gürbüz, Y. Z., Yıldırım, B., &amp; Alatan, A. A. (2020). Blind Deinterleaving of Signals in Time Series with Self-attention Based Soft Min-cost Flow Learning. <i>arXiv preprint arXiv:2010.12972</i>.
+Chunjie, Z., Yuchen, L., &amp; Weijian, S. (2020). Synthetic algorithm for deinterleaving radar signals in a complex environment. <i>IET Radar, Sonar &amp; Navigation</i>, <i>14</i>(12), 1918-1928.
+Ranney, K., &amp; Tom, K. (2020). <i>A Survey of Methods for Estimating Pulse Width and Pulse Repetition Interval</i>. CCDC Army Research Laboratory Aberdeen Proving Ground United States.
+Lang, P., Fu, X., Martorella, M., Dong, J., Qin, R., Meng, X., &amp; Xie, M. (2020). A Comprehensive Survey of Machine Learning Applied to Radar Signal Processing. <i>arXiv preprint arXiv:2009.13702</i>.

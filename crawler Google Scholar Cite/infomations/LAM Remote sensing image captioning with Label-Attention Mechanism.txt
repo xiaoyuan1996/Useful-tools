@@ -1,0 +1,4 @@
+LAM: Remote sensing image captioning with Label-Attention Mechanism
+-------------------------------
+Li, Y., Ma, J., &amp; Zhang, Y. Image retrieval from remote sensing big data: A survey. <i>Information Fusion</i>, <i>67</i>, 94-115.
+Fu, K., Li, Y., Zhang, W., Yu, H., &amp; Sun, X. (2020). Boosting Memory with a Persistent Memory Mechanism for Remote Sensing Image Captioning. <i>Remote Sensing</i>, <i>12</i>(11), 1874.

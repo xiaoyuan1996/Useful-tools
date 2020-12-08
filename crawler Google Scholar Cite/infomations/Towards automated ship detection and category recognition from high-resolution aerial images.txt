@@ -1,0 +1,9 @@
+Towards automated ship detection and category recognition from high-resolution aerial images
+-------------------------------
+Tian, T., Pan, Z., Tan, X., &amp; Chu, Z. (2020). Arbitrary-Oriented Inshore Ship Detection based on Multi-Scale Feature Fusion and Contextual Pooling on Rotation Region Proposals. <i>Remote Sensing</i>, <i>12</i>(2), 339.
+Fu, K., Chang, Z., Zhang, Y., &amp; Sun, X. (2020). Point-Based Estimator for Arbitrary-Oriented Object Detection in Aerial Images. <i>IEEE Transactions on Geoscience and Remote Sensing</i>.
+Li, L., Zhou, Z., Wang, B., Miao, L., &amp; Zong, H. (2020). A Novel CNN-based Method for Accurate Ship Detection in HR Optical Remote Sensing Images via Rotated Bounding Box. <i>IEEE Transactions on Geoscience and Remote Sensing</i>.
+Zhu, Z., Diao, W., Chen, K., Zhao, L., Yan, Z., Zhang, W., ... &amp; Sun, X. (2020). DIAMONDNET: SHIP DETECTION IN REMOTE SENSING IMAGES BY EXTRACTING AND CLUSTERING KEYPOINTS IN A DIAMOND. <i>ISPRS Annals of Photogrammetry, Remote Sensing &amp; Spatial Information Sciences</i>, <i>5</i>(2).
+De Laurentiis, L., Jones, C. E., Holt, B., Schiavon, G., &amp; Del Frate, F. (2020). Deep Learning for Mineral and Biogenic Oil Slick Classification With Airborne Synthetic Aperture Radar Data. <i>IEEE Transactions on Geoscience and Remote Sensing</i>.
+Huang, H., Sun, D., Wang, R., Zhu, C., &amp; Liu, B. (2020). Ship Target Detection Based on Improved YOLO Network. <i>Mathematical Problems in Engineering</i>, <i>2020</i>.
+Li, J., Diao, W., Sun, X., Feng, Y., Zhang, W., Chang, Z., &amp; Fu, K. (2020). Automated and Lightweight Network Design via Random Search for Remote Sensing Image Scene Classification. <i>The International Archives of Photogrammetry, Remote Sensing and Spatial Information Sciences</i>, <i>43</i>, 1217-1224.

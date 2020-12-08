@@ -1,0 +1,3 @@
+Chordal distance and non-Archimedean chordal distance between Atanassov's intuitionistic fuzzy set
+-------------------------------
+Qi, M., Yang, Z., Ren, W., &amp; Wang, H. (2019). Lorentzian knowledge measures for atanassov’s intuitionistic fuzzy sets. <i>Journal of Intelligent &amp; Fuzzy Systems</i>, <i>36</i>(1), 473-486.

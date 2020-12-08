@@ -1,0 +1,13 @@
+SARD: Towards Scale-Aware Rotated Object Detection in Aerial Imagery
+-------------------------------
+Wei, H., Zhang, Y., Chang, Z., Li, H., Wang, H., &amp; Sun, X. (2020). Oriented objects as pairs of middle lines. <i>ISPRS Journal of Photogrammetry and Remote Sensing</i>, <i>169</i>, 268-279.
+Wei, H., Zhang, Y., Wang, B., Yang, Y., Li, H., &amp; Wang, H. (2020). X-LineNet: Detecting aircraft in remote sensing images by a pair of intersecting line segments. <i>IEEE Transactions on Geoscience and Remote Sensing</i>.
+Yang, X., &amp; Yan, J. (2020). Arbitrary-Oriented Object Detection with Circular Smooth Label. <i>arXiv preprint arXiv:2003.05597</i>.
+Fu, K., Chang, Z., Zhang, Y., &amp; Sun, X. (2020). Point-Based Estimator for Arbitrary-Oriented Object Detection in Aerial Images. <i>IEEE Transactions on Geoscience and Remote Sensing</i>.
+Zhou, L., Wei, H., Li, H., Zhao, W., Zhang, Y., &amp; Zhang, Y. (2020). Arbitrary-Oriented Object Detection in Remote Sensing Images Based on Polar Coordinates. <i>IEEE Access</i>.
+Fu, K., Zhang, T., Zhang, Y., &amp; Sun, X. (2020). OSCD: A One-Shot Conditional Object Detection Framework. <i>Neurocomputing</i>.
+Wang, Y., Gu, J., Zhao, L., Zhang, Y., &amp; Wang, H. (2020). Target Detection Based on Simulated Image Domain Migration. <i>IEEE Access</i>, <i>8</i>, 79724-79733.
+Ngo, H. H., Lin, F. C., Sehn, Y. T., Tu, M., &amp; Dow, C. R. (2020). A Room Monitoring System Using Deep Learning and Perspective Correction Techniques. <i>Applied Sciences</i>, <i>10</i>(13), 4423.
+Alfarraj, O., &amp; Tolba, A. (2020). A two-level computer vision-based information processing method for improving the performance of human–machine interaction-aided applications. <i>Complex &amp; Intelligent Systems</i>, 1-11.
+Yang, X., Yan, J., Yang, X., Tang, J., Liao, W., &amp; He, T. (2020). SCRDet++: Detecting Small, Cluttered and Rotated Objects via Instance-Level Feature Denoising and Rotation Loss Smoothing. <i>arXiv preprint arXiv:2004.13316</i>.
+Yang, X., Hou, L., Zhou, Y., Wang, W., &amp; Yan, J. (2020). Dense Label Encoding for Boundary Discontinuity Free Rotation Detection. <i>arXiv preprint arXiv:2011.09670</i>.

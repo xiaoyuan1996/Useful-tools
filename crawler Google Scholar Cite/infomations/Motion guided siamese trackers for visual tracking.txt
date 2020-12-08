@@ -1,0 +1,6 @@
+Motion guided siamese trackers for visual tracking
+-------------------------------
+Wei, H., Zhang, Y., Chang, Z., Li, H., Wang, H., &amp; Sun, X. (2020). Oriented objects as pairs of middle lines. <i>ISPRS Journal of Photogrammetry and Remote Sensing</i>, <i>169</i>, 268-279.
+Tian, X., Li, H., &amp; Deng, H. (2020). Object Tracking Algorithm based on Improved Siamese Convolutional Networks Combined with Deep Contour Extraction and Object Detection Under Airborne Platform. <i>Journal of Imaging Science and Technology</i>.
+Fu, K., Zhang, T., Zhang, Y., &amp; Sun, X. (2020). OSCD: A One-Shot Conditional Object Detection Framework. <i>Neurocomputing</i>.
+Zhang, H., Li, X., Zhu, B., &amp; Ma, Q. (2020). Wide-Area Search Tracking for Siamese Region Proposal Network. <i>IEEE Access</i>, <i>8</i>, 115184-115195.

@@ -1,0 +1,33 @@
+IoU-adaptive deformable R-CNN: Make full use of IoU for multi-class object detection in remote sensing imagery
+-------------------------------
+Qiu, H., Li, H., Wu, Q., Meng, F., Ngan, K. N., &amp; Shi, H. (2019). A2RMNet: Adaptively aspect ratio multi-scale network for object detection in remote sensing images. <i>Remote Sensing</i>, <i>11</i>(13), 1594.
+Chen, G., Li, C., Wei, W., Jing, W., Woźniak, M., Blažauskas, T., &amp; Damaševičius, R. (2019). Fully convolutional neural network with augmented atrous spatial pyramid pool and fully connected fusion path for high resolution remote sensing image segmentation. <i>Applied Sciences</i>, <i>9</i>(9), 1816.
+Fu, K., Zhang, T., Zhang, Y., Yan, M., Chang, Z., Zhang, Z., &amp; Sun, X. (2019). Meta-SSD: Towards fast adaptation for few-shot object detection with meta-learning. <i>IEEE Access</i>, <i>7</i>, 77597-77606.
+Wang, J., Ding, J., Guo, H., Cheng, W., Pan, T., &amp; Yang, W. (2019). Mask obb: A semantic attention-based mask oriented bounding box representation for multi-category object detection in aerial images. <i>Remote Sensing</i>, <i>11</i>(24), 2930.
+Fu, K., Chen, Z., Zhang, Y., &amp; Sun, X. (2019). Enhanced feature representation in detection for optical remote sensing images. <i>Remote Sensing</i>, <i>11</i>(18), 2095.
+Wang, Y., Zhang, Y., Zhang, Y., Zhao, L., Sun, X., &amp; Guo, Z. (2019). SARD: Towards scale-aware rotated object detection in aerial imagery. <i>IEEE Access</i>, <i>7</i>, 173855-173865.
+Bao, S., Zhong, X., Zhu, R., Zhang, X., Li, Z., &amp; Li, M. (2019). Single shot anchor refinement network for oriented object detection in optical remote sensing imagery. <i>IEEE Access</i>, <i>7</i>, 87150-87161.
+Wang, P., Sun, X., Diao, W., &amp; Fu, K. (2019). FMSSD: Feature-merged single-shot detection for multiscale objects in large-scale remote sensing imagery. <i>IEEE Transactions on Geoscience and Remote Sensing</i>, <i>58</i>(5), 3377-3390.
+Yang, F., Li, W., Hu, H., Li, W., &amp; Wang, P. (2020). Multi-Scale Feature Integrated Attention-Based Rotation Network for Object Detection in VHR Aerial Images. <i>Sensors</i>, <i>20</i>(6), 1686.
+Pham, M. T., Courtrai, L., Friguet, C., Lefèvre, S., &amp; Baussard, A. (2020). YOLO-Fine: One-stage detector of small objects under various backgrounds in remote sensing images. <i>Remote Sensing</i>, <i>12</i>(15), 2501.
+Mendili, L. E., Puissant, A., Chougrad, M., &amp; Sebari, I. (2020). Towards a multi-temporal deep learning approach for mapping urban fabric using sentinel 2 images. <i>Remote Sensing</i>, <i>12</i>(3), 423.
+Zambanini, S., Loghin, A. M., Pfeifer, N., Soley, E. M., &amp; Sablatnig, R. (2020). Detection of parking cars in stereo satellite images. <i>Remote Sensing</i>, <i>12</i>(13), 2170.
+Chen, C., Zhong, J., &amp; Tan, Y. (2019). Multiple-oriented and small object detection with convolutional neural networks for aerial image. <i>Remote Sensing</i>, <i>11</i>(18), 2176.
+Yu, Y., Guan, H., Li, D., Gu, T., Tang, E., &amp; Li, A. (2020). Orientation guided anchoring for geospatial object detection from remote sensing imagery. <i>ISPRS Journal of Photogrammetry and Remote Sensing</i>, <i>160</i>, 67-82.
+Guo, W., Li, W., Gong, W., &amp; Cui, J. (2020). Extended Feature Pyramid Network with Adaptive Scale Training Strategy and Anchors for Object Detection in Aerial Images. <i>Remote Sensing</i>, <i>12</i>(5), 784.
+Das, A. K. (2020). DEVELOPMENT OF AN AUTOMATED DEBRIS DETECTION SYSTEM FOR WILD BLUEBERRY HARVESTERS USING A CONVOLUTIONAL NEURAL NETWORK TO IMPROVE FRUIT QUALITY.
+Lin, Q., Zhao, J., Fu, G., &amp; Yuan, Z. (2020). CRPN-SFNet: A High-Performance Object Detector on Large-Scale Remote Sensing Images. <i>IEEE Transactions on Neural Networks and Learning Systems</i>.
+Courtrai, L., Pham, M. T., &amp; Lefèvre, S. (2020). Small Object Detection in Remote Sensing Images Based on Super-Resolution with Auxiliary Generative Adversarial Networks. <i>Remote Sensing</i>, <i>12</i>(19), 3152.
+Zhang, M., Chen, Y., Liu, X., Lv, B., &amp; Wang, J. (2020). Adaptive Anchor Networks for Multi-Scale Object Detection in Remote Sensing Images. <i>IEEE Access</i>, <i>8</i>, 57552-57565.
+Xu, C., Li, C., Cui, Z., Zhang, T., &amp; Yang, J. (2020). Hierarchical Semantic Propagation for Object Detection in Remote Sensing Imagery. <i>IEEE Transactions on Geoscience and Remote Sensing</i>, <i>58</i>(6), 4353-4364.
+Hoeser, T., Bachofer, F., &amp; Kuenzer, C. (2020). Object Detection and Image Segmentation with Deep Learning on Earth Observation Data: A Review—Part II: Applications. <i>Remote Sensing</i>, <i>12</i>(18), 3053.
+Wang, L., Tao, D., Wang, R., Wang, R., &amp; Li, H. (2019). Big Map R-CNN for object detection in large-scale remote sensing images. <i>Mathematical Foundations of Computing</i>, <i>2</i>(4), 299.
+Virnodkar, S. S., Pachghare, V. K., Patil, V. C., &amp; Jha, S. K. Computer and Information Sciences.
+Hou, J., Ma, H., &amp; Wang, S. (2020, May). Parallel Cascade R-CNN for object detection in remote sensing imagery. In <i>Journal of Physics: Conference Series</i> (Vol. 1544, No. 1, p. 012124). IOP Publishing.
+Sun, X., Liu, Y., Yan, Z., Wang, P., Diao, W., &amp; Fu, K. (2020). SRAF-Net: Shape Robust Anchor-Free Network for Garbage Dumps in Remote Sensing Imagery. <i>IEEE Transactions on Geoscience and Remote Sensing</i>.
+Qiao, M., Fang, Z., Guo, Y., Zhou, S., Chang, C., &amp; Wang, Y. (2020). Breast Calcification Detection Based on Multichannel Radiofrequency Signals via a Unified Deep Learning Framework. <i>Expert Systems with Applications</i>, 114218.
+Hong, F., Lu, C., Liu, C., Liu, R., Jiang, W., Ju, W., &amp; Wang, T. (2020). PGNet: Pipeline Guidance for Human Key-Point Detection. <i>Entropy</i>, <i>22</i>(3), 369.
+Chen, S., Shao, D., Shu, X., Zhang, C., &amp; Wang, J. (2020). FCC-Net: A Full-Coverage Collaborative Network for Weakly Supervised Remote Sensing Object Detection. <i>Electronics</i>, <i>9</i>(9), 1356.
+Yang, X., Yan, J., Yang, X., Tang, J., Liao, W., &amp; He, T. (2020). SCRDet++: Detecting Small, Cluttered and Rotated Objects via Instance-Level Feature Denoising and Rotation Loss Smoothing. <i>arXiv preprint arXiv:2004.13316</i>.
+Guo, W., Li, W., Li, Z., Gong, W., Cui, J., &amp; Wang, X. (2020). A Slimmer Network with Polymorphic and Group Attention Modules for More Efficient Object Detection in Aerial Images. <i>Remote Sensing</i>, <i>12</i>(22), 3750.
+Virnodkar, S. S., Pachghare, V. K., Patil, V. C., &amp; Jha, S. K. (2020). CaneSat dataset to leverage convolutional neural networks for sugarcane classification from Sentinel-2. <i>Journal of King Saud University-Computer and Information Sciences</i>.

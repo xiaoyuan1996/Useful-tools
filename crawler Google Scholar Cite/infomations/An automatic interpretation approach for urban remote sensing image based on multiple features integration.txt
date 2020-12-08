@@ -1,0 +1,3 @@
+An automatic interpretation approach for urban remote sensing image based on multiple features integration
+-------------------------------
+李湘眷, 王彩玲, 孙皓, &amp; 李宇. (2016). 城市遥感图像建筑物仿射协变区域融合检测. <i>光电工程</i>, <i>43</i>(6), 75-82.

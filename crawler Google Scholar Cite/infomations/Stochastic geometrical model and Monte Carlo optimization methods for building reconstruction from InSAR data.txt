@@ -1,0 +1,10 @@
+Stochastic geometrical model and Monte Carlo optimization methods for building reconstruction from InSAR data
+-------------------------------
+Dubois, C., Thiele, A., &amp; Hinz, S. (2016). Building detection and building parameter retrieval in InSAR phase images. <i>ISPRS Journal of Photogrammetry and Remote Sensing</i>, <i>114</i>, 228-241.
+Zhang, Y., Sun, X., Sun, H., Zhang, Z., Diao, W., &amp; Fu, K. (2018, July). High resolution sar image classification with deeper convolutional neural network. In <i>IGARSS 2018-2018 IEEE International Geoscience and Remote Sensing Symposium</i> (pp. 2374-2377). IEEE.
+Dou, F., Diao, W., Sun, X., Zhang, Y., &amp; Fu, K. (2017). Aircraft Reconstruction in High-Resolution SAR Images Using Deep Shape Prior. <i>ISPRS International Journal of Geo-Information</i>, <i>6</i>(11), 330.
+Fu, K., Zhang, Y., Sun, X., Li, F., Wang, H., &amp; Dou, F. (2016). A coarse-to-fine method for building reconstruction from HR SAR layover map using restricted parametric geometrical models. <i>IEEE Geoscience and Remote Sensing Letters</i>, <i>13</i>(12), 2004-2008.
+Fu, K., Zhang, Y., Sun, X., Diao, W., Wu, B., &amp; Wang, H. (2016, July). Automatic building reconstruction from high resolution InSAR data using stochastic geometrical model. In <i>2016 IEEE International Geoscience and Remote Sensing Symposium (IGARSS)</i> (pp. 1579-1582). IEEE.
+Zhang, Y., Sun, X., Fu, K., Chen, K., &amp; Wang, H. (2017, July). Flat-roofed building reconstruction based on layover modelling and MCMC method. In <i>2017 IEEE International Geoscience and Remote Sensing Symposium (IGARSS)</i> (pp. 2287-2290). IEEE.
+Sun, Y., Hua, Y., Mou, L., &amp; Zhu, X. X. (2020). CG-Net: Conditional GIS-aware Network for Individual Building Segmentation in VHR SAR Images. <i>arXiv preprint arXiv:2011.08362</i>.
+Zhang, Y., Sun, X., Diao, W., Wang, C., Xu, G., &amp; Wang, H. (2016, July). Model selection for high resolution InSAR coherence statistics over urban areas and its application in building detection. In <i>2016 IEEE International Geoscience and Remote Sensing Symposium (IGARSS)</i> (pp. 60-63). IEEE.

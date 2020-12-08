@@ -1,0 +1,19 @@
+Effective fusion of multi-modal remote sensing data in a Fully convolutional network for semantic labeling
+-------------------------------
+Cao, R., Zhu, J., Tu, W., Li, Q., Cao, J., Liu, B., ... &amp; Qiu, G. (2018). Integrating aerial and street view images for urban land use classification. <i>Remote Sensing</i>, <i>10</i>(10), 1553.
+Huang, H., Lan, Y., Deng, J., Yang, A., Deng, X., Zhang, L., &amp; Wen, S. (2018). A semantic labeling approach for accurate weed mapping of high resolution UAV imagery. <i>Sensors</i>, <i>18</i>(7), 2113.
+Huang, H., Deng, J., Lan, Y., Yang, A., Deng, X., Wen, S., ... &amp; Zhang, Y. (2018). Accurate weed mapping and prescription map generation based on fully convolutional networks using UAV imagery. <i>Sensors</i>, <i>18</i>(10), 3299.
+Yi, Y., Zhang, Z., Zhang, W., Zhang, C., Li, W., &amp; Zhao, T. (2019). Semantic segmentation of urban buildings from vhr remote sensing imagery using a deep convolutional neural network. <i>Remote Sensing</i>, <i>11</i>(15), 1774.
+Wang, J., Shen, L., Qiao, W., Dai, Y., &amp; Li, Z. (2019). Deep feature fusion with integration of residual connection and attention model for classification of VHR remote sensing images. <i>Remote Sensing</i>, <i>11</i>(13), 1617.
+Gao, L., Luo, J., Xia, L., Wu, T., Sun, Y., &amp; Liu, H. (2019). Topographic constrained land cover classification in mountain areas using fully convolutional network. <i>International Journal of Remote Sensing</i>, <i>40</i>(18), 7127-7152.
+Zhang, Y., Sidibé, D., Morel, O., &amp; Mériaudeau, F. (2020). Deep multimodal fusion for semantic image segmentation: A survey. <i>Image and Vision Computing</i>, 104042.
+Huang, H., Burger, P., Schmitz, M., Roth, L., Wünsche, H. J., &amp; Mayer, H. (2018, November). Driving in unknown areas: From UAV images to map for autonomous vehicles. In <i>Proceedings of the 11th ACM SIGSPATIAL International Workshop on Computational Transportation Science</i> (pp. 39-42).
+Chen, K., Fu, K., Gao, X., Yan, M., Zhang, W., Zhang, Y., &amp; Sun, X. (2019, July). Effective Fusion of Multi-Modal Data with Group Convolutions for Semantic Segmentation of Aerial Imagery. In <i>IGARSS 2019-2019 IEEE International Geoscience and Remote Sensing Symposium</i> (pp. 3911-3914). IEEE.
+Poliyapram, V., Wang, W., &amp; Nakamura, R. (2019). A Point-Wise LiDAR and Image Multimodal Fusion Network (PMNet) for Aerial Point Cloud 3D Semantic Segmentation. <i>Remote Sensing</i>, <i>11</i>(24), 2961.
+Barut, O. (2018). <i>Geospatial object recognition using deep networks for satellite images</i> (Master's thesis, MIDDLE EAST TECHNICAL UNIVERSITY).
+Gao, Y. (2020). <i>Assessing the spatial transferability of fully convolutional networks for slum mapping</i> (Master's thesis, University of Twente).
+Zhang, M., Zhou, Y., Zhao, J., Man, Y., Liu, B., &amp; Yao, R. (2019). A survey of semi-and weakly supervised semantic segmentation of images. <i>Artificial Intelligence Review</i>, 1-30.
+Corbat, L. (2020). <i>Fusion de segmentations complémentaires d&#39;images médicales par Intelligence Artificielle et autres méthodes de gestion de conflits</i> (Doctoral dissertation, Université Bourgogne Franche-Comté).
+Guo, R., Sun, X., Chen, K., Zhou, X., Yan, Z., Diao, W., &amp; Yan, M. (2020). JMLNet: Joint Multi-Label Learning Network for Weakly Supervised Semantic Segmentation in Aerial Images. <i>Remote Sensing</i>, <i>12</i>(19), 3169.
+Zhang, P., Du, P., Lin, C., Wang, X., Li, E., Xue, Z., &amp; Bai, X. (2020). A Hybrid Attention-Aware Fusion Network (HAFNet) for Building Extraction from High-Resolution Imagery and LiDAR Data. <i>Remote Sensing</i>, <i>12</i>(22), 3764.
+Liu, W., Zhang, Y., Fan, H., Zou, Y., &amp; Cui, Z. (2020). A New Multi-Channel Deep Convolutional Neural Network for Semantic Segmentation of Remote Sensing Image. <i>IEEE Access</i>, <i>8</i>, 131814-131825.

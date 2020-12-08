@@ -1,0 +1,42 @@
+A geometrical-based simulator for target recognition in high-resolution SAR images
+-------------------------------
+Dong, G., Wang, N., &amp; Kuang, G. (2014). Sparse representation of monogenic signal: With application to target recognition in SAR images. <i>IEEE signal processing letters</i>, <i>21</i>(8), 952-956.
+Malmgren-Hansen, D., Kusk, A., Dall, J., Nielsen, A. A., Engholm, R., &amp; Skriver, H. (2017). Improving SAR automatic target recognition models with transfer learning from simulated data. <i>IEEE Geoscience and remote sensing Letters</i>, <i>14</i>(9), 1484-1488.
+Deng, S., Du, L., Li, C., Ding, J., &amp; Liu, H. (2017). SAR automatic target recognition based on Euclidean distance restricted autoencoder. <i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</i>, <i>10</i>(7), 3323-3333.
+Liu, M., Wu, Y., Zhao, W., Zhang, Q., Li, M., &amp; Liao, G. (2013). Dempster–Shafer fusion of multiple sparse representation and statistical property for SAR target configuration recognition. <i>IEEE Geoscience and Remote Sensing Letters</i>, <i>11</i>(6), 1106-1110.
+Ding, B., &amp; Wen, G. (2018). Target reconstruction based on 3-D scattering center model for robust SAR ATR. <i>IEEE Transactions on Geoscience and Remote Sensing</i>, <i>56</i>(7), 3772-3785.
+Liu, M., Wu, Y., Zhang, Q., Wang, F., &amp; Li, M. (2016). Synthetic aperture radar target configuration recognition using locality-preserving property and the Gamma distribution. <i>IET Radar, Sonar &amp; Navigation</i>, <i>10</i>(2), 256-263.
+Liu, M., &amp; Chen, S. (2017). Label-dependent sparse representation for synthetic aperture radar target configuration recognition. <i>International Journal of Remote Sensing</i>, <i>38</i>(17), 4868-4887.
+Li, M., Guo, Y., Li, M., Luo, G., &amp; Kong, X. (2017). Coupled dictionary learning for target recognition in SAR images. <i>IEEE Geoscience and Remote Sensing Letters</i>, <i>14</i>(6), 791-795.
+Wang, S., Jiao, L., Yang, S., &amp; Liu, H. (2016). SAR image target recognition via complementary spatial pyramid coding. <i>Neurocomputing</i>, <i>196</i>, 125-132.
+黄佳琦, 祝明波, 侯建国, 董巍, &amp; 邹建武. (2015). 两种海面舰船 SAR 图像仿真方法对比. <i>雷达科学与技术</i>, <i>13</i>(2), 149-153.
+程建, 黎兰, &amp; 王海旭. (2014). 稀疏表示框架下的 SAR 目标识别. <i>电子科技大学学报</i>, <i>43</i>(4), 524-529.
+高君, 高鑫, &amp; 孙显. (2015). 基于几何特征的高分辨率 SAR 图像飞机目标解译方法. <i>国外电子测量技术</i>, (8), 21-28.
+Zherdev, D. A., Minaev, E. Y., Procudin, V. V., &amp; Fursov, V. A. (2017). Object recognition using real and modelled SAR images. <i>Procedia engineering</i>, <i>201</i>, 503-510.
+Zherdev, D. A., &amp; Fursov, V. A. (2015, September). Support plane method applied to ground objects recognition using modelled SAR images. In <i>Applications of Digital Image Processing XXXVIII</i> (Vol. 9599, p. 95992J). International Society for Optics and Photonics.
+曹锋. (2015). 基于细微特征区分的海量图像检索模型仿真. <i>计算机仿真</i>, <i>32</i>(9), 368-371.
+Liu, L., Pan, Z., Qiu, X., &amp; Peng, L. (2018, July). SAR target classification with CycleGAN transferred simulated samples. In <i>IGARSS 2018-2018 IEEE International Geoscience and Remote Sensing Symposium</i> (pp. 4411-4414). IEEE.
+Song, H., Ji, K., Yang, K., Zou, H., &amp; Mo, J. (2017). Extension of analytic physical optics to calculate bistatic 3D scattering from obtuse dihedral. <i>Journal of ElEctromagnEtic WavEs and applications</i>, <i>31</i>(13), 1304-1324.
+Dou, F., Diao, W., Sun, X., Zhang, Y., &amp; Fu, K. (2017). Aircraft Reconstruction in High-Resolution SAR Images Using Deep Shape Prior. <i>ISPRS International Journal of Geo-Information</i>, <i>6</i>(11), 330.
+Radius, A., &amp; Marques, P. (2012). Synthetic aperture radar raw data simulator for sea environment dedicated to moving ship detection.
+Жердев, Д. А., Минаев, Е. Ю., Прокудин, В. В., &amp; Фурсов, В. А. (2017). Технология распознавания радиолокационных изображений с формированием эталонов путем моделирования. In <i>Информационные технологии и нанотехнологии (ИТНТ-2017)</i> (pp. 1033-1038).
+Fu, K., Dou, F. Z., Li, H. C., Diao, W. H., Sun, X., &amp; Xu, G. L. (2018). Aircraft recognition in SAR images based on scattering structure feature and template matching. <i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</i>, <i>11</i>(11), 4206-4217.
+Liu, S., &amp; Zhang, G. (2016, August). Euler 2D-PCA for SAR target recognition. In <i>2016 IEEE International Conference on Signal Processing, Communications and Computing (ICSPCC)</i> (pp. 1-6). IEEE.
+熊文昌, 王宏琦, &amp; 唐侃. (2014). 基于面元投影模型的 SAR 建筑物快速图像仿真. <i>电子与信息学报</i>, <i>36</i>(5), 1062-1068.
+Yang, K., Ji, K., &amp; Zou, H. (2014, August). Computing Illuminated Area and Scattering for Double-bounce for SAR Manmade Target&#39;s Characteristic Modeling. In <i>PIERS Proceedings</i>.
+Жердев, Д. А., Минаев, Е. Ю., &amp; Фурсов, В. А. (2016). Моделирование радиолокационных изображений с использованием программно-моделирующего конструктора радиолокационных карт. In <i>Сборник трудов III Международной конференции и молодежной школы «Информационные технологии и нанотехнологии»(ИТНТ 2017). Самара: Новая техника</i> (pp. 586-590).
+Ding, B., Wen, G., Huang, X., Zhong, J., &amp; Ma, C. (2016, October). Target recognition in SAR images via gaussian mixture modeling of attributed scattering center set. In <i>2016 CIE International Conference on Radar (RADAR)</i> (pp. 1-5). IEEE.
+卫朝霞. (2015). 机载跟踪器的逃逸目标图像快速识别模型仿真. <i>计算机仿真</i>, <i>32</i>(5), 75-78.
+黄佳琦, 祝明波, 侯建国, 王腾飞, &amp; 张东兴. (2015). 基于二次散射的舰船目标 SAR 图像仿真. <i>雷达科学与技术</i>, <i>13</i>(1), 37-43.
+唐侃, 付锟, 孙显, 孙皓, &amp; 王宏琦. (2013). 高分辨率 SAR 图像中矩形建筑物特性分析与三维重建. <i>红外与毫米波学报</i>, <i>32</i>(3), 198-204.
+Yao-Peng, P. A. N. (2017). Electromagnetic Compatibility Effects on Antenna Pattern of Spaceborne SAR. <i>DEStech Transactions on Engineering and Technology Research</i>, (iceeac).
+Guo, Q., Wang, H., &amp; Xu, F. (2019, November). Aircraft Detection in High-Resolution SAR Images Using Scattering Feature Information. In <i>2019 6th Asia-Pacific Conference on Synthetic Aperture Radar (APSAR)</i> (pp. 1-5). IEEE.
+Фурсов, В. А. (2016). ИНФОРМАЦИОННАЯ ТЕХНОЛОГИЯ РАСПОЗНАВАНИЯ РАДИОЛОКАЦИОННЫХ ИЗОБРАЖЕНИЙ НА ОСНОВЕ МЕТОДОВ ФРАКТАЛЬНОГО СЖАТИЯ.
+Li, C., Du, L., Deng, S., Sun, Y., &amp; Liu, H. (2020). Point-wise discriminative auto-encoder with application on robust radar automatic target recognition. <i>Signal Processing</i>, <i>169</i>, 107385.
+Жердева, Д. А., Минаева, Е. Ю., Прокудина, В. В., &amp; Фурсова, В. А. Технология распознавания радиолокационных изображений с формированием эталонов путем моделирования.
+Guo, Q., Wang, H., &amp; Xu, F. A Residual Pyramid Network Considering Scattering Information for Aircraft Detection in SAR Imagery.
+Wu, F., Wang, C., Wen, X., Gong, L., Zhang, H., &amp; Zhang, B. (2016, July). SAR image simulation for object&#39;s feature analysis. In <i>2016 4th International Workshop on Earth Observation and Remote Sensing Applications (EORSA)</i> (pp. 28-32). IEEE.
+Ren, H., Yu, X., Zou, L., Zhou, Y., &amp; Wang, X. (2019). Joint Supervised Dictionary and Classifier Learning for Multi-View SAR Image Classification. <i>IEEE Access</i>, <i>7</i>, 165127-165142.
+Wang, X., Jiang, L., &amp; Wang, Z. (2018, July). Analytic Physical Optics Solution for Bistatic 3D Scattering Model from Separate Plates. In <i>2018 IEEE 3rd International Conference on Signal and Image Processing (ICSIP)</i> (pp. 412-417). IEEE.
+Жердев, Д. А. (2015). Распознавание объектов по моделируемым изображениям РСА с использованием опорных плоскостей. <i>Инновации в науке</i>, (12-1 (49)).
+Pirrone, D., Bovolo, F., &amp; Bruzzone, L. (2020). An Approach to Unsupervised Detection of Fully and Partially Destroyed Buildings in Multitemporal VHR SAR Images. <i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</i>, <i>13</i>, 5938-5953.

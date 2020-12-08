@@ -1,0 +1,9 @@
+deep memory connected neural network for optical remote sensing image restoration
+-------------------------------
+Tsagkatakis, G., Aidini, A., Fotiadou, K., Giannopoulos, M., Pentari, A., &amp; Tsakalides, P. (2019). Survey of deep-learning approaches for remote sensing observation enhancement. <i>Sensors</i>, <i>19</i>(18), 3929.
+Gu, J., Sun, X., Zhang, Y., Fu, K., &amp; Wang, L. (2019). Deep residual squeeze and excitation network for remote sensing image super-resolution. <i>Remote Sensing</i>, <i>11</i>(15), 1817.
+Xu, W., Zhang, C., &amp; Wu, M. (2019, November). Multi-scale Deep Residual Network for Satellite Image Super-Resolution Reconstruction. In <i>Chinese Conference on Pattern Recognition and Computer Vision (PRCV)</i> (pp. 332-340). Springer, Cham.
+Zhang, J., Liu, S., Peng, Y., &amp; Li, J. (2020). Satellite image super-resolution based on progressive residual deep neural network. <i>Journal of Applied Remote Sensing</i>, <i>14</i>(3), 032610.
+Li, Y., Iwamoto, Y., Lin, L., &amp; Chen, Y. W. (2020). Parallel-Connected Residual Channel Attention Network for Remote Sensing Image Super-Resolution. In <i>Proceedings of the Asian Conference on Computer Vision</i>.
+Feng, X., Su, X., Shen, J., &amp; Jin, H. (2019). Single Space Object Image Denoising and Super-Resolution Reconstructing Using Deep Convolutional Networks. <i>Remote Sensing</i>, <i>11</i>(16), 1910.
+Wang, X., Xu, G., Wang, Y., Lin, D., Li, P., &amp; Lin, X. (2019, July). Thin and Thick Cloud Removal on Remote Sensing Image by Conditional Generative Adversarial Network. In <i>IGARSS 2019-2019 IEEE International Geoscience and Remote Sensing Symposium</i> (pp. 1426-1429). IEEE.

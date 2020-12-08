@@ -1,0 +1,3 @@
+Multi-view multitask learning for knowledge base relation detection
+-------------------------------
+Shi, Y., Xiao, Y., Quan, P., Lei, M., &amp; Niu, L. (2020). Distant Supervision Relation Extraction via adaptive dependency-path and additional knowledge graph supervision. <i>Neural Networks</i>.

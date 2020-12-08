@@ -1,0 +1,48 @@
+Automatic target detection in high-resolution remote sensing images using a contour-based spatial model
+-------------------------------
+Long, Y., Gong, Y., Xiao, Z., &amp; Liu, Q. (2017). Accurate object localization in remote sensing images based on convolutional neural networks. <i>IEEE Transactions on Geoscience and Remote Sensing</i>, <i>55</i>(5), 2486-2498.
+Han, J., Zhou, P., Zhang, D., Cheng, G., Guo, L., Liu, Z., ... &amp; Wu, J. (2014). Efficient, simultaneous detection of multi-class geospatial targets based on visual saliency modeling and discriminative learning of sparse coding. <i>ISPRS Journal of Photogrammetry and Remote Sensing</i>, <i>89</i>, 37-48.
+Zhang, L., &amp; Zhang, Y. (2016). Airport detection and aircraft recognition based on two-layer saliency model in high spatial resolution remote-sensing images. <i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</i>, <i>10</i>(4), 1511-1524.
+Liu, L., &amp; Shi, Z. (2014). Airplane detection based on rotation invariant and sparse coding in remote sensing images. <i>Optik</i>, <i>125</i>(18), 5327-5333.
+Zhang, W., Sun, X., Wang, H., &amp; Fu, K. (2015). A generic discriminative part-based model for geospatial object detection in optical remote sensing images. <i>ISPRS journal of photogrammetry and remote sensing</i>, <i>99</i>, 30-44.
+姚远, 姜志国, &amp; 张浩鹏. (2014). 基于层次化分类器的遥感图像飞机目标检测. <i>航天返回与遥感</i>, <i>35</i>(5), 88-94.
+Yu, Y., Guan, H., &amp; Ji, Z. (2015). Rotation-invariant object detection in high-resolution satellite imagery using superpixel-based deep Hough forests. <i>IEEE Geoscience and Remote Sensing Letters</i>, <i>12</i>(11), 2183-2187.
+Basaeed, E., Bhaskar, H., &amp; Al-Mualla, M. (2016). Supervised remote sensing image segmentation using boosted convolutional neural networks. <i>Knowledge-Based Systems</i>, <i>99</i>, 19-27.
+Li, K., Zou, C., Bu, S., Liang, Y., Zhang, J., &amp; Gong, M. (2018). Multi-modal feature fusion for geographic image annotation. <i>Pattern Recognition</i>, <i>73</i>, 1-14.
+Wan, L., Zheng, L., Huo, H., &amp; Fang, T. (2017). Affine invariant description and large-margin dimensionality reduction for target detection in optical remote sensing images. <i>IEEE Geoscience and Remote Sensing Letters</i>, <i>14</i>(7), 1116-1120.
+林煜东, 和红杰, 尹忠科, &amp; 陈帆. (2014). 基于稀疏表示的可见光遥感图像飞机检测算法. <i>光子学报</i>, <i>43</i>(9), 910001.
+Hu, G., Yang, Z., Han, J., Huang, L., Gong, J., &amp; Xiong, N. (2018). Aircraft detection in remote sensing images based on saliency and convolution neural network. <i>EURASIP Journal on Wireless Communications and Networking</i>, <i>2018</i>(1), 1-16.
+Li, Q., Zhang, W., Li, M., Niu, J., &amp; Wu, Q. J. (2017). Automatic detection of ship targets based on wavelet transform for HF surface wavelet radar. <i>IEEE Geoscience and Remote Sensing Letters</i>, <i>14</i>(5), 714-718.
+Luo, Q., &amp; Shi, Z. (2016, July). Airplane detection in remote sensing images based on object proposal. In <i>2016 IEEE International Geoscience and Remote Sensing Symposium (IGARSS)</i> (pp. 1388-1391). IEEE.
+Pan, B., Tai, J., Zheng, Q., &amp; Zhao, S. (2017). Cascade convolutional neural network based on transfer-learning for aircraft detection on high-resolution remote sensing images. <i>Journal of Sensors</i>, <i>2017</i>.
+Zhou, P., Zhang, D., Cheng, G., &amp; Han, J. (2015, April). Negative bootstrapping for weakly supervised target detection in remote sensing images. In <i>2015 IEEE International Conference on Multimedia Big Data</i> (pp. 318-323). IEEE.
+Gao, F., Xu, Q., &amp; Li, B. (2013). Aircraft detection from VHR images based on circle-frequency filter and multilevel features. <i>The Scientific World Journal</i>, <i>2013</i>.
+Ergul, M., &amp; Alatan, A. A. (2013, October). An automatic geo-spatial object recognition algorithm for high resolution satellite images. In <i>Electro-Optical Remote Sensing, Photonic Technologies, and Applications VII; and Military Applications in Hyperspectral Imaging and High Spatial Resolution Sensing</i> (Vol. 8897, p. 88970J). International Society for Optics and Photonics.
+Li, H., Liu, S., Duan, Q., &amp; Li, W. (2018). Application of multi-sensor image fusion of Internet of Things in image processing. <i>IEEE Access</i>, <i>6</i>, 50776-50787.
+冯卫东, 孙显, &amp; 王宏琦. (2013). 基于空间语义模型的高分辨率遥感图像目标检测方法. <i>电子与信息学报</i>, <i>35</i>(10), 2518-2523.
+Gürbüz, Y. Z., &amp; Alatan, A. A. (2013, April). Region of interest detection based fast and robust geo-spatial object recognition. In <i>2013 21st Signal Processing and Communications Applications Conference (SIU)</i> (pp. 1-4). IEEE.
+Li, L. (2013, August). Adaptive multi-scale segmentation of high resolution remote sensing images based on particle swarm optimization. In <i>2013 5th International Conference on Intelligent Human-Machine Systems and Cybernetics</i> (Vol. 1, pp. 151-154). IEEE.
+Li, B., Cui, X., &amp; Bai, J. (2016, July). A cascade structure of aircraft detection in high resolution remote sensing images. In <i>2016 IEEE International Geoscience and Remote Sensing Symposium (IGARSS)</i> (pp. 653-656). IEEE.
+Cheng, B., Li, Z., Wu, Q., Li, B., Yang, H., Qing, L., &amp; Qi, B. (2019). Multi-class objects detection method in remote sensing image based on direct feedback control for convolutional neural network. <i>IEEE Access</i>, <i>7</i>, 144691-144709.
+余东行, 郭海涛, 张保明, 赵传, &amp; 卢俊. (2019). 级联卷积神经网络的遥感影像飞机目标检测.
+牛新, 窦勇, 张鹏, &amp; 曹玉社. (2016). 基于深度学习的光学遥感机场与飞行器目标识别技术. <i>大数据</i>, <i>2</i>(5), 2016054.
+Wang, N., Li, B., Xu, Q., &amp; Wang, Y. (2019). Automatic Ship Detection in Optical Remote Sensing Images Based on Anomaly Detection and SPP-PCANet. <i>Remote Sensing</i>, <i>11</i>(1), 47.
+Batı, E. (2014). <i>Deep convolutional neural networks with an application towards geospatial object recognition</i> (Master's thesis).
+Miao, W. X., &amp; Luo, Z. (2018, October). Aircraft detection based on multiple scale faster-RCNN. In <i>2018 International Conference on Virtual Reality and Visualization (ICVRV)</i> (pp. 90-93). IEEE.
+Liang, Y., Cahill, N. D., Saber, E., &amp; Messinger, D. W. (2015, October). A game-theoretic tree matching approach for object detection in high-resolution remotely sensed images. In <i>Image and Signal Processing for Remote Sensing XXI</i> (Vol. 9643, p. 964315). International Society for Optics and Photonics.
+Dou, H., Sun, X., Li, B., Deng, Q., Yang, X., Liu, D., &amp; Tian, J. (2018, March). Airplane detection based on fusion framework by combining saliency model with Deep Convolutional Neural Networks. In <i>MIPPR 2017: Remote Sensing Image Processing, Geographic Information Systems, and Other Applications</i> (Vol. 10611, p. 1061106). International Society for Optics and Photonics.
+Hassan, A., Hussein, W. M., Said, E., &amp; Hanafy, M. E. (2019, March). A deep learning framework for automatic airplane detection in remote sensing satellite images. In <i>2019 IEEE Aerospace Conference</i> (pp. 1-10). IEEE.
+Lu, X., Zhang, Y., Yuan, Y., &amp; Feng, Y. (2019). Gated and Axis-Concentrated Localization Network for Remote Sensing Object Detection. <i>IEEE Transactions on Geoscience and Remote Sensing</i>, <i>58</i>(1), 179-192.
+Mishra, B. K., Kuanar, S. K., Peng, S. L., &amp; Dasig Jr, D. D. (Eds.). (2020). <i>Handbook of IoT and Blockchain: Methods, Solutions, and Recent Advancements</i>. CRC Press.
+Jung, H. G. (2019). K-center algorithm for hierarchical binary template matching. <i>Pattern Recognition Letters</i>, <i>125</i>, 584-590.
+Zhang, J., Xie, C., Xu, X., Shi, Z., &amp; Pan, B. (2020). A Contextual Bidirectional Enhancement Method for Remote Sensing Image Object Detection. <i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</i>, <i>13</i>, 4518-4531.
+Bright, A. O., &amp; Blessy, J. AIRCRAFT RECOGNITION IN REMOTE SENSING IMAGES BASED ON CONVOLUTIONAL NEURAL NETWORKS.
+PARVATHI, T. S., &amp; RASOOL, T. M. APPLICATION OF MULTI-SENSOR IMAGE FUSION OF INTERNET OF THINGS IN IMAGE PROCESSING.
+Zhao, J., Han, J., Feng, C., &amp; Yao, J. (2017, November). A Systematic Scheme for Automatic Airplane Detection from High-Resolution Remote Sensing Images. In <i>Pacific-Rim Symposium on Image and Video Technology</i> (pp. 465-478). Springer, Cham.
+Han, W., Huang, Z., Yan, M., &amp; Fu, H. (2020, July). A Mask Detection Method for Shoppers Under the Threat of COVID-19 Coronavirus. In <i>2020 International Conference on Computer Vision, Image and Deep Learning (CVIDL)</i> (pp. 442-447). IEEE.
+Luo, Z., &amp; Ding, S. (2019, July). Object Detection in Remote Sensing Images Based on GAN. In <i>Proceedings of the 2019 International Conference on Artificial Intelligence and Computer Science</i> (pp. 499-503).
+Zhou, B., Jin, S., Liu, Y., Hao, M., &amp; Zhang, H. (2020, February). A new ground plane detection method based on continuous multi-frame images and hierarchical screening. In <i>MIPPR 2019: Pattern Recognition and Computer Vision</i> (Vol. 11430, p. 1143021). International Society for Optics and Photonics.
+Ergül, M., &amp; Alatan, A. A. (2013, April). Geospatial object recognition from high resolution satellite imagery. In <i>2013 21st Signal Processing and Communications Applications Conference (SIU)</i> (pp. 1-4). IEEE.
+Bevara, V., &amp; Sanki, P. K. (2020). VLSI implementation of high throughput parallel pipeline median finder for IoT applications. <i>Sādhanā</i>, <i>45</i>(1), 1-5.
+Mohammadi, M. R. (2018). Deep Multiple Instance Learning for Airplane Detection in High Resolution Imagery. <i>arXiv preprint arXiv:1808.06178</i>.
+Özgen, C. (2012). <i>A Fully automatic shape based geo-spatial object recognition</i> (Doctoral dissertation, MIDDLE EAST TECHNICAL UNIVERSITY).

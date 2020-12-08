@@ -1,0 +1,8 @@
+A new semantic segmentation model for remote sensing images
+-------------------------------
+Haut, J. M., Paoletti, M. E., Plaza, J., Li, J., &amp; Plaza, A. (2018). Active learning with convolutional neural networks for hyperspectral image classification using a new bayesian approach. <i>IEEE Transactions on Geoscience and Remote Sensing</i>, <i>56</i>(11), 6440-6461.
+Blott, G., Takami, M., &amp; Heipke, C. (2018). Semantic segmentation of fisheye images. In <i>Proceedings of the European Conference on Computer Vision (ECCV)</i> (pp. 0-0).
+He, C., Fang, P., Zhang, Z., Xiong, D., &amp; Liao, M. (2019). An End-to-End Conditional Random Fields and Skip-Connected Generative Adversarial Segmentation Network for Remote Sensing Images. <i>Remote Sensing</i>, <i>11</i>(13), 1604.
+Jamil, N., Redzuan, N. A. N., Ismail, M. F., &amp; Ramli, W. A. W. (2019). Evaluation of VGG Networks for Semantic Image Segmentation of Malaysian Meals.
+Xiong, D., He, C., Liu, X., &amp; Liao, M. (2020). An End-To-End Bayesian Segmentation Network Based on a Generative Adversarial Network for Remote Sensing Images. <i>Remote Sensing</i>, <i>12</i>(2), 216.
+Hu, H., Cai, S., Wang, W., Zhang, P., &amp; Li, Z. (2019, August). A Semantic Segmentation Approach Based on DeepLab Network in High-Resolution Remote Sensing Images. In <i>International Conference on Image and Graphics</i> (pp. 292-304). Springer, Cham.

@@ -1,0 +1,7 @@
+Syntax-Directed Hybrid Attention Network for Aspect-Level Sentiment Analysis
+-------------------------------
+Liang, Y., Meng, F., Zhang, J., Xu, J., Chen, Y., &amp; Zhou, J. (2020). An Iterative Knowledge Transfer Network with Routing for Aspect-based Sentiment Analysis. <i>arXiv preprint arXiv:2004.01935</i>.
+Tran, T. K., &amp; Phan, T. T. (2020). Capturing Contextual Factors in Sentiment Classification: An Ensemble Approach. <i>IEEE Access</i>, <i>8</i>, 116856-116865.
+Liang, Y., Meng, F., Zhang, J., Xu, J., Chen, Y., &amp; Zhou, J. (2020). A Dependency Syntactic Knowledge Augmented Interactive Architecture for End-to-End Aspect-based Sentiment Analysis. <i>arXiv preprint arXiv:2004.01951</i>.
+Xu, Q., Zhu, L., Dai, T., &amp; Yan, C. (2020). Aspect-based sentiment classification with multi-attention network. <i>Neurocomputing</i>, <i>388</i>, 135-143.
+Zheng, Y., Li, X., Su, G., Ma, J., &amp; Ning, C. (2020, August). Position-aware Hybrid Attention Network for Aspect-Level Sentiment Analysis. In <i>China Conference on Information Retrieval</i> (pp. 83-95). Springer, Cham.

@@ -1,0 +1,4 @@
+Semi-Supervised Change Detection Based on Graphs with Generative Adversarial Networks
+-------------------------------
+Peng, D., Bruzzone, L., Zhang, Y., Guan, H., Ding, H., &amp; Huang, X. (2020). SemiCDNet: a semisupervised convolutional neural network for change detection in high resolution remote-sensing images. <i>IEEE Transactions on Geoscience and Remote Sensing</i>.
+Shi, N., Chen, K., Zhou, G., &amp; Sun, X. (2020). A Feature Space Constraint-Based Method for Change Detection in Heterogeneous Images. <i>Remote Sensing</i>, <i>12</i>(18), 3057.

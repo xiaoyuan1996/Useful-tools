@@ -1,0 +1,3 @@
+A Hybrid Neural Network for Fast Automatic Modulation Classification
+-------------------------------
+Krzyston, J., Bhattacharjea, R., &amp; Stark, A. (2020). High-Capacity Complex Convolutional Neural Networks For I/Q Modulation Classification. <i>arXiv preprint arXiv:2010.10717</i>.

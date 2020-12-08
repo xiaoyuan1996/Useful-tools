@@ -1,0 +1,11 @@
+Aircraft type recognition in remote sensing images based on feature learning with conditional generative adversarial networks
+-------------------------------
+Sun, A. Y., &amp; Scanlon, B. R. (2019). How can Big Data and machine learning benefit environment and water management: a survey of methods, applications, and future directions. <i>Environmental Research Letters</i>, <i>14</i>(7), 073001.
+Fu, K., Dai, W., Zhang, Y., Wang, Z., Yan, M., &amp; Sun, X. (2019). Multicam: Multiple class activation mapping for aircraft recognition in remote sensing images. <i>Remote Sensing</i>, <i>11</i>(5), 544.
+谭琨, 王雪, &amp; 杜培军. (2019). 结合深度学习和半监督学习的遥感影像分类进展.
+Wang, W., Tang, Z., Chen, Y., Zhang, Y., &amp; Sun, Y. (2019). Aircraft Target Classification for Conventional Narrow-Band Radar with Multi-Wave Gates Sparse Echo Data. <i>Remote Sensing</i>, <i>11</i>(22), 2700.
+王耀领, 王宏琦, &amp; 许滔. 结合 CGAN 样本生成的遥感图像飞机识别. <i>中国图象图形学报</i>.
+Wu, Z. Z., Wan, S. H., Wang, X. F., Tan, M., Zou, L., Li, X. L., &amp; Chen, Y. (2020). A benchmark data set for aircraft type recognition from remote sensing images. <i>Applied Soft Computing</i>, <i>89</i>, 106132.
+Xiong, Y., Niu, X., Dou, Y., Qie, H., &amp; Wang, K. (2020). Non-locally Enhanced Feature Fusion Network for Aircraft Recognition in Remote Sensing Images. <i>Remote Sensing</i>, <i>12</i>(4), 681.
+Wu, Z. Z., Weise, T., Wang, Y., &amp; Wang, Y. (2020). Convolutional Neural Network Based Weakly Supervised Learning for Aircraft Detection From Remote Sensing Image. <i>IEEE Access</i>, <i>8</i>, 158097-158106.
+Sun, Y., Cooharojananone, N., &amp; Ochiai, H. Aircraft Detection Based on Saliency Map and Convolution Neural Network. In <i>2019 23rd International Computer Science and Engineering Conference (ICSEC)</i> (pp. 48-53). IEEE.

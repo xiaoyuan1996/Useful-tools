@@ -1,0 +1,2 @@
+Annotation of remote sensing images using spatial constrained multi-feature joint sparse coding
+-------------------------------

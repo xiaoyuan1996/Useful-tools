@@ -1,0 +1,19 @@
+Slim and efficient neural network design for resource-constrained sar target recognition
+-------------------------------
+Ma, F., Gao, F., Sun, J., Zhou, H., &amp; Hussain, A. (2019). Weakly supervised segmentation of SAR imagery using superpixel and hierarchically adversarial CRF. <i>Remote Sensing</i>, <i>11</i>(5), 512.
+Yue, Z., Gao, F., Xiong, Q., Wang, J., Huang, T., Yang, E., &amp; Zhou, H. (2019). A novel semi-supervised convolutional neural network method for synthetic aperture radar image recognition. <i>Cognitive Computation</i>, 1-12.
+Matuszewski, J., &amp; Pietrow, D. (2019, March). Recognition of electromagnetic sources with the use of deep neural networks. In <i>XII Conference on Reconnaissance and Electronic Warfare Systems</i> (Vol. 11055, p. 110550D). International Society for Optics and Photonics.
+Min, R., Lan, H., Cao, Z., &amp; Cui, Z. (2019). A gradually distilled CNN for SAR target recognition. <i>IEEE Access</i>, <i>7</i>, 42190-42200.
+Ma, F., Gao, F., Sun, J., Zhou, H., &amp; Hussain, A. (2019). Attention graph convolution network for image segmentation in big SAR imagery data. <i>Remote Sensing</i>, <i>11</i>(21), 2586.
+Zhang, F., Wang, Y., Ni, J., Zhou, Y., &amp; Hu, W. (2019). Sar target small sample recognition based on cnn cascaded features and adaboost rotation forest. <i>IEEE Geoscience and Remote Sensing Letters</i>, <i>17</i>(6), 1008-1012.
+Gao, F., Liu, Q., Sun, J., Hussain, A., &amp; Zhou, H. (2019). Integrated GANs: Semi-Supervised SAR Target Recognition. <i>IEEE Access</i>, <i>7</i>, 113999-114013.
+Yin, Q., Wu, Y., Zhang, F., &amp; Zhou, Y. (2020). GPU-based soil parameter parallel inversion for PolSAR data. <i>Remote Sensing</i>, <i>12</i>(3), 415.
+Yue, Z., Gao, F., Xiong, Q., Wang, J., Hussain, A., &amp; Zhou, H. (2020). A Novel Attention Fully Convolutional Network Method for Synthetic Aperture Radar Image Segmentation. <i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</i>, <i>13</i>, 4585-4598.
+Ma, F., Gao, F., Wang, J., Hussain, A., &amp; Zhou, H. (2020). A novel biologically-inspired target detection method based on saliency analysis for synthetic aperture radar (SAR) imagery. <i>Neurocomputing</i>, <i>402</i>, 66-79.
+Matuszewski, J., &amp; Pietrow, D. (2019, October). Deep Learning Neural Networks With Using Pseudo-Random 3D Patterns Generator. In <i>2019 IEEE International Scientific-Practical Conference Problems of Infocommunications, Science and Technology (PIC S&amp;T)</i> (pp. 262-267). IEEE.
+Dong, H., &amp; Zhang, L. (2020). PolSAR Image Classification with Lightweight 3D Convolutional Networks. <i>Remote Sensing</i>, <i>12</i>(3), 396.
+Tang, J., Zhang, F., Zhou, Y., Yin, Q., &amp; Hu, W. (2019, July). A Fast Inference Networks for SAR Target Few-Shot Learning Based on Improved Siamese Networks. In <i>IGARSS 2019-2019 IEEE International Geoscience and Remote Sensing Symposium</i> (pp. 1212-1215). IEEE.
+Wang, J., Liu, J., Ren, P., &amp; Qin, C. X. (2020). A SAR Target Recognition Based on Guided Reconstruction and Weighted Norm-Constrained Deep Belief Network. <i>IEEE Access</i>, <i>8</i>, 181712-181722.
+Miao, J., Sun, K., Liao, X., Leng, L., &amp; Chu, J. (2020). Human Segmentation Based on Compressed Deep Convolutional Neural Network. <i>IEEE Access</i>, <i>8</i>, 167585-167595.
+Zhang, F., Liu, Y., Zhou, Y., Yin, Q., &amp; Li, H. C. (2020). A lossless lightweight CNN design for SAR target recognition. <i>Remote Sensing Letters</i>, <i>11</i>(5), 485-494.
+Lang, P., Fu, X., Martorella, M., Dong, J., Qin, R., Meng, X., &amp; Xie, M. (2020). A Comprehensive Survey of Machine Learning Applied to Radar Signal Processing. <i>arXiv preprint arXiv:2009.13702</i>.

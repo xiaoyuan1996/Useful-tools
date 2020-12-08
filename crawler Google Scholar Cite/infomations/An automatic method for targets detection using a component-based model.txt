@@ -1,0 +1,6 @@
+An automatic method for targets detection using a component-based model
+-------------------------------
+Wang, Y., &amp; Sun, Y. (2011). Object detection based on shape feature of combined regions. <i>Dianzi Yu Xinxi Xuebao(Journal of Electronics and Information Technology)</i>, <i>33</i>(12), 2894-2901.
+孙显, 付琨, &amp; 王宏琦. (2011). 基于分等级对象语义图模型的复杂目标自动识别方法研究. <i>电子与信息学报</i>, <i>33</i>(5), 1062-1068.
+胡正平, &amp; 杨建秀. (2011). 稀疏活动轮廓扩展形状脚本模型目标检测算法. <i>计算机科学与探索</i>, <i>5</i>(3), 280-287.
+Ding, B., Wen, G., Zhong, J., &amp; Ma, C. (2014, October). Single scattering part detection of SAR target based on its part-based scattering model. In <i>2014 12th International Conference on Signal Processing (ICSP)</i> (pp. 1890-1895). IEEE.

@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bf68e682-51f0-424b-880b-3d8bfeae5c5a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lBLZScM6oKhOEvT9LiDICoF9zh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\XiaoYuan\Desktop\crawler" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\XiaoYuan\Desktop\crawler" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.concat">
+    <configuration name="concat" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="crawler" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/concat.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="crawler" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="selenium" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="crawler" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/selenium.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="split" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="crawler" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/split.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="spyder" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="crawler" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/spyder.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.concat" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.spyder" />
+        <item itemvalue="Python.split" />
+        <item itemvalue="Python.selenium" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf68e682-51f0-424b-880b-3d8bfeae5c5a" name="Default Changelist" comment="" />
+      <created>1607065592506</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607065592506</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="706" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1607093443502">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="706" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1607093443502" />
+    <state x="2908" y="140" key="#mytools" timestamp="1607342398963">
+      <screen x="1920" y="-185" width="2560" height="1400" />
+    </state>
+    <state x="2908" y="140" key="#mytools/0.0.1920.1040/1920.-185.2560.1400@1920.-185.2560.1400" timestamp="1607342398963" />
+    <state x="2980" y="270" key="FileChooserDialogImpl" timestamp="1607065714319">
+      <screen x="1920" y="-185" width="2560" height="1400" />
+    </state>
+    <state x="2980" y="270" key="FileChooserDialogImpl/0.0.1920.1040/1920.-185.2560.1400@1920.-185.2560.1400" timestamp="1607065714319" />
+    <state width="1205" height="1272" key="GridCell.Tab.0.bottom" timestamp="1607391978945">
+      <screen x="1920" y="-185" width="2560" height="1400" />
+    </state>
+    <state width="1205" height="1272" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.-185.2560.1400@1920.-185.2560.1400" timestamp="1607391978945" />
+    <state width="1368" height="912" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607309198510" />
+    <state width="1205" height="1272" key="GridCell.Tab.0.center" timestamp="1607391978945">
+      <screen x="1920" y="-185" width="2560" height="1400" />
+    </state>
+    <state width="1205" height="1272" key="GridCell.Tab.0.center/0.0.1920.1040/1920.-185.2560.1400@1920.-185.2560.1400" timestamp="1607391978945" />
+    <state width="1368" height="912" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607309198510" />
+    <state width="1205" height="1272" key="GridCell.Tab.0.left" timestamp="1607391978945">
+      <screen x="1920" y="-185" width="2560" height="1400" />
+    </state>
+    <state width="1205" height="1272" key="GridCell.Tab.0.left/0.0.1920.1040/1920.-185.2560.1400@1920.-185.2560.1400" timestamp="1607391978945" />
+    <state width="1368" height="912" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607309198509" />
+    <state width="1205" height="1272" key="GridCell.Tab.0.right" timestamp="1607391978945">
+      <screen x="1920" y="-185" width="2560" height="1400" />
+    </state>
+    <state width="1205" height="1272" key="GridCell.Tab.0.right/0.0.1920.1040/1920.-185.2560.1400@1920.-185.2560.1400" timestamp="1607391978945" />
+    <state width="1368" height="912" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607309198510" />
+    <state width="2517" height="492" key="GridCell.Tab.1.bottom" timestamp="1607334356454">
+      <screen x="1920" y="-185" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.-185.2560.1400@1920.-185.2560.1400" timestamp="1607334356454" />
+    <state width="2517" height="492" key="GridCell.Tab.1.center" timestamp="1607334356454">
+      <screen x="1920" y="-185" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.1.center/0.0.1920.1040/1920.-185.2560.1400@1920.-185.2560.1400" timestamp="1607334356454" />
+    <state width="2517" height="492" key="GridCell.Tab.1.left" timestamp="1607334356454">
+      <screen x="1920" y="-185" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.1.left/0.0.1920.1040/1920.-185.2560.1400@1920.-185.2560.1400" timestamp="1607334356454" />
+    <state width="2517" height="492" key="GridCell.Tab.1.right" timestamp="1607334356454">
+      <screen x="1920" y="-185" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.1.right/0.0.1920.1040/1920.-185.2560.1400@1920.-185.2560.1400" timestamp="1607334356454" />
+  </component>
+</project>

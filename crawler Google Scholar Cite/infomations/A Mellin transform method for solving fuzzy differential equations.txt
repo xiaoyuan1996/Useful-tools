@@ -1,0 +1,3 @@
+A Mellin transform method for solving fuzzy differential equations
+-------------------------------
+Ren, W., Yang, Z., Sun, X., &amp; Qi, M. (2018). Hyers-Ulam stability of Hermite fuzzy differential equations and fuzzy Mellin transform. <i>Journal of Intelligent &amp; Fuzzy Systems</i>, <i>35</i>(3), 3721-3731.

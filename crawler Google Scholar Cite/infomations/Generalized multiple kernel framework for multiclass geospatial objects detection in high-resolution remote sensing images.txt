@@ -1,0 +1,9 @@
+Generalized multiple kernel framework for multiclass geospatial objects detection in high-resolution remote sensing images
+-------------------------------
+Juhari, N., Menon, P. S., Ehsan, A. A., &amp; Shaari, S. (2014). Optical loss analysis in 13-channel SOI-based AWG for CWDM network. <i>Journal Of Nonlinear Optical Physics &amp; Materials</i>, <i>23</i>(01), 1450008.
+Cao, J., Yu, S., Liu, H., &amp; Li, P. (2016). Hand posture recognition based on heterogeneous features fusion of multiple kernels learning. <i>Multimedia Tools and Applications</i>, <i>75</i>(19), 11909-11928.
+姬晓飞, &amp; 秦宁丽. (2015). 基于光学遥感图像的目标检测与分类识别方法. <i>沈阳航空航天大学学报</i>, <i>32</i>(1), 23-31.
+姬晓飞, 秦宁丽, &amp; 刘洋. (2016). 多特征的光学遥感图像多目标识别算法.
+Zhang, R., Li, H., Duan, K., You, S., Liu, K., Wang, F., &amp; Hu, Y. (2020). Automatic Detection of Earthquake-Damaged Buildings by Integrating UAV Oblique Photography and Infrared Thermal Imaging. <i>Remote Sensing</i>, <i>12</i>(16), 2621.
+李湘眷, 孙皓, 王洪伟, &amp; 王彩玲. (2014). 多核多类关联向量机的高分辨率影像目标检测. <i>测绘科学</i>, <i>39</i>(12), 128-133.
+Li, X., Sun, X., Wang, H., Li, Y., &amp; Sun, H. (2012). Multiple kernel relevance vector machine for geospatial objects detection in high-resolution remote sensing images. <i>Journal of Electronics (China)</i>, <i>29</i>(5), 353-360.

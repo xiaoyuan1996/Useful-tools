@@ -1,0 +1,2 @@
+JMLNet: Joint multi-label learning network for weakly supervised semantic segmentation in aerial images
+-------------------------------

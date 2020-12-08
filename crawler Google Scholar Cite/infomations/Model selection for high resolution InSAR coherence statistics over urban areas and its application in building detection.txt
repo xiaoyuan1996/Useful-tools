@@ -1,0 +1,3 @@
+Model selection for high resolution InSAR coherence statistics over urban areas and its application in building detection
+-------------------------------
+Gierull, C. H. (2020). Closed-Form Expressions for InSAR Sample Statistics and Its Application to Non-Gaussian Data. <i>IEEE Transactions on Geoscience and Remote Sensing</i>.

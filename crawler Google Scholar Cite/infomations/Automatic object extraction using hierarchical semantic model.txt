@@ -1,0 +1,3 @@
+Automatic object extraction using hierarchical semantic model
+-------------------------------
+Ke, L., Xiong, Y., &amp; Gang, W. (2015, October). Remote sensing image classification method based on superpixel segmentation and adaptive weighting k-means. In <i>2015 International Conference on Virtual Reality and Visualization (ICVRV)</i> (pp. 40-45). IEEE.

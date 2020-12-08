@@ -1,0 +1,3 @@
+BAS Net: Boundary-Aware Semi-Supervised Semantic Segmentation Network for Very High Resolution Remote Sensing Images
+-------------------------------
+Guo, R., Sun, X., Chen, K., Zhou, X., Yan, Z., Diao, W., &amp; Yan, M. (2020). JMLNet: Joint Multi-Label Learning Network for Weakly Supervised Semantic Segmentation in Aerial Images. <i>Remote Sensing</i>, <i>12</i>(19), 3169.

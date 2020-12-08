@@ -1,0 +1,3 @@
+A multi-resolution fusion model incorporating color and elevation for semantic segmentation
+-------------------------------
+Zhang, W., Huang, H., Schmitz, M., Sun, X., Wang, H., &amp; Mayer, H. (2018). Effective fusion of multi-modal remote sensing data in a fully convolutional network for semantic labeling. <i>Remote Sensing</i>, <i>10</i>(1), 52.

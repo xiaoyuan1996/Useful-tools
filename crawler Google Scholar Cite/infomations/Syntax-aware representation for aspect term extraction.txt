@@ -1,0 +1,3 @@
+Syntax-aware representation for aspect term extraction
+-------------------------------
+Pham, D. H. A LATENT ASPECT MINING FRAMEWORK FROM TEXTUAL.

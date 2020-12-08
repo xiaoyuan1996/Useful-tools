@@ -1,0 +1,6 @@
+Attention-based joint entity linking with entity embedding
+-------------------------------
+Alokaili, A., &amp; Menai, M. E. B. (2020). SVM ensembles for named entity disambiguation. <i>Computing</i>, <i>102</i>(4), 1051-1076.
+Çelebi, A., &amp; Özgür, A. Cluster-based mention typing for named entity disambiguation. <i>Natural Language Engineering</i>, 1-37.
+Wang, Y. T., Shen, J., Li, Z. X., Yang, Q., Liu, A., Zhao, P. P., ... &amp; Yang, X. J. (2020). Enriching Context Information for Entity Linking with Web Data. <i>Journal of Computer Science and Technology</i>, <i>35</i>(4), 724-738.
+Oliveira, I. L., Fileto, R., Speck, R., Garcia, L. P., Moussallem, D., &amp; Lehmann, J. Towards holistic Entity Linking: Survey and directions. <i>Information Systems</i>, <i>95</i>, 101624.

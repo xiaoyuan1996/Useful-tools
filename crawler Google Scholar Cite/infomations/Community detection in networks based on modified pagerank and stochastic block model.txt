@@ -1,0 +1,6 @@
+Community detection in networks based on modified pagerank and stochastic block model
+-------------------------------
+Zhao, Q., Ma, H., Li, Z., &amp; Guo, L. (2020, July). Stochastic Blockmodels Meets Overlapping Community Detection. In <i>International Conference on Intelligent Information Processing</i> (pp. 149-159). Springer, Cham.
+Li, Q., Liu, Y., Zhu, J., Xiao, Y., Wu, H., Liu, X., ... &amp; Zhai, S. (2019). ANDERATION: A New Anti-Community Detection Algorithm and Its Application to Explore Incompatibility of Traditional Chinese Medicine. <i>IEEE Access</i>, <i>7</i>, 113975-113987.
+Angles, R., Paredes, R., &amp; García, R. (2020). R 3 MAT: A Rapid and Robust Graph Generator. <i>IEEE Access</i>, <i>8</i>, 130048-130065.
+Guesmi, S., Trabelsi, C., &amp; Latiri, C. Multidimensional community discovering in heterogeneous social networks. <i>Concurrency and Computation: Practice and Experience</i>, e5809.

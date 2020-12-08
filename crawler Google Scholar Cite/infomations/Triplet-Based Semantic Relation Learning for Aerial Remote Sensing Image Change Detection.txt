@@ -1,0 +1,18 @@
+Triplet-Based Semantic Relation Learning for Aerial Remote Sensing Image Change Detection
+-------------------------------
+Peng, D., Zhang, Y., &amp; Guan, H. (2019). End-to-end change detection for high resolution satellite images using improved unet++. <i>Remote Sensing</i>, <i>11</i>(11), 1382.
+Peng, D., &amp; Guan, H. (2019). Unsupervised change detection method based on saliency analysis and convolutional neural network. <i>Journal of Applied Remote Sensing</i>, <i>13</i>(2), 024512.
+Liu, J., Chen, K., Xu, G., Sun, X., Yan, M., Diao, W., &amp; Han, H. (2019). Convolutional neural network-based transfer learning for optical aerial images change detection. <i>IEEE Geoscience and Remote Sensing Letters</i>, <i>17</i>(1), 127-131.
+You, Y., Cao, J., &amp; Zhou, W. (2020). A Survey of Change Detection Methods Based on Remote Sensing Images for Multi-Source and Multi-Objective Scenarios. <i>Remote Sensing</i>, <i>12</i>(15), 2460.
+Ansari, R. A., Buddhiraju, K. M., &amp; Malhotra, R. (2020). Urban change detection analysis utilizing multiresolution texture features from polarimetric SAR images. <i>Remote Sensing Applications: Society and Environment</i>, <i>20</i>, 100418.
+Zhang, Y., Zhang, S., Li, Y., &amp; Zhang, Y. (2020). Coarse-to-Fine Satellite Images Change Detection Framework via Boundary-Aware Attentive Network. <i>Sensors</i>, <i>20</i>(23), 6735.
+Qian, J., Xia, M., Zhang, Y., Liu, J., &amp; Xu, Y. (2020). TCDNet: Trilateral Change Detection Network for Google Earth Image. <i>Remote Sensing</i>, <i>12</i>(17), 2669.
+Zhou, Y., &amp; Li, X. (2020). Unsupervised Self-training Algorithm Based on Deep Learning for Optical Aerial Images Change Detection. <i>arXiv preprint arXiv:2010.07469</i>.
+de Bem, P. P., de Carvalho Junior, O. A., Fontes Guimarães, R., &amp; Trancoso Gomes, R. A. (2020). Change Detection of Deforestation in the Brazilian Amazon Using Landsat Data and Convolutional Neural Networks. <i>Remote Sensing</i>, <i>12</i>(6), 901.
+Khelifi, L., &amp; Mignotte, M. (2020). Deep Learning for Change Detection in Remote Sensing Images: Comprehensive Review and Meta-Analysis. <i>arXiv preprint arXiv:2006.05612</i>.
+Xu, Q., Chen, K., Sun, X., Zhang, Y., Li, H., &amp; Xu, G. (2020). Pseudo-Siamese Capsule Network for Aerial Remote Sensing Images Change Detection. <i>IEEE Geoscience and Remote Sensing Letters</i>.
+Santana, M. C., Júnior, L. A. P., Moreira, T. P., Colombo, D., de Albuquerque, V. H. C., &amp; Papa, J. P. (2019). A Novel Siamese-Based Approach for Scene Change Detection With Applications to Obstructed Routes in Hazardous Environments. <i>IEEE Intelligent Systems</i>, <i>35</i>(1), 44-53.
+Shi, N., Chen, K., Zhou, G., &amp; Sun, X. (2020). A Feature Space Constraint-Based Method for Change Detection in Heterogeneous Images. <i>Remote Sensing</i>, <i>12</i>(18), 3057.
+Shi, W., Zhang, M., Zhang, R., Chen, S., &amp; Zhan, Z. (2020). Change Detection Based on Artificial Intelligence: State-of-the-Art and Challenges. <i>Remote Sensing</i>, <i>12</i>(10), 1688.
+Chen, H., &amp; Shi, Z. (2020). A Spatial-Temporal Attention-Based Method and a New Dataset for Remote Sensing Image Change Detection. <i>Remote Sensing</i>, <i>12</i>(10), 1662.
+Kang, J., Fernandez-Beltran, R., Ye, Z., Tong, X., &amp; Plaza, A. (2020). Deep Hashing Based on Class-Discriminated Neighborhood Embedding. <i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</i>, <i>13</i>, 5998-6007.

@@ -1,0 +1,9 @@
+Oriented objects as pairs of middle lines
+-------------------------------
+Yang, X., &amp; Yan, J. (2020). Arbitrary-Oriented Object Detection with Circular Smooth Label. <i>arXiv preprint arXiv:2003.05597</i>.
+Zhao, P., Qu, Z., Bu, Y., Tan, W., Ren, Y., &amp; Pu, S. (2020). PolarDet: A Fast, More Precise Detector for Rotated Target in Aerial Images. <i>arXiv preprint arXiv:2010.08720</i>.
+Zhou, L., Wei, H., Li, H., Zhao, W., Zhang, Y., &amp; Zhang, Y. (2020). Arbitrary-Oriented Object Detection in Remote Sensing Images Based on Polar Coordinates. <i>IEEE Access</i>.
+Karami, A., Crawford, M., &amp; Delp, E. J. (2020). Automatic Plant Counting and Location Based on a Few-Shot Learning Technique. <i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</i>, <i>13</i>, 5872-5886.
+Yang, X., Yan, J., Yang, X., Tang, J., Liao, W., &amp; He, T. (2020). SCRDet++: Detecting Small, Cluttered and Rotated Objects via Instance-Level Feature Denoising and Rotation Loss Smoothing. <i>arXiv preprint arXiv:2004.13316</i>.
+Yang, X., Hou, L., Zhou, Y., Wang, W., &amp; Yan, J. (2020). Dense Label Encoding for Boundary Discontinuity Free Rotation Detection. <i>arXiv preprint arXiv:2011.09670</i>.
+Zhang, X., Wang, G., Zhu, P., Zhang, T., Li, C., &amp; Jiao, L. (2020). GRS-Det: An Anchor-Free Rotation Ship Detector Based on Gaussian-Mask in Remote Sensing Images. <i>IEEE Transactions on Geoscience and Remote Sensing</i>.

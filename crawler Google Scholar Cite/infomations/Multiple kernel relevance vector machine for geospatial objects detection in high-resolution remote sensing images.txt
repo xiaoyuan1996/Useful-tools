@@ -1,0 +1,3 @@
+Multiple kernel relevance vector machine for geospatial objects detection in high-resolution remote sensing images
+-------------------------------
+李湘眷, 孙皓, 王洪伟, &amp; 王彩玲. (2014). 多核多类关联向量机的高分辨率影像目标检测. <i>测绘科学</i>, <i>39</i>(12), 128-133.

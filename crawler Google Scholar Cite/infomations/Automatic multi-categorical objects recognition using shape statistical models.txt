@@ -1,0 +1,4 @@
+Automatic multi-categorical objects recognition using shape statistical models
+-------------------------------
+Wang, Y., &amp; Sun, Y. (2011). Object detection based on shape feature of combined regions. <i>Dianzi Yu Xinxi Xuebao(Journal of Electronics and Information Technology)</i>, <i>33</i>(12), 2894-2901.
+李湘眷, 王彩玲, 李宇, &amp; 孙皓. (2016). 窗口融合特征对比度的光学遥感目标检测. <i>光学 精密工程</i>, <i>24</i>(8), 2067-2077.

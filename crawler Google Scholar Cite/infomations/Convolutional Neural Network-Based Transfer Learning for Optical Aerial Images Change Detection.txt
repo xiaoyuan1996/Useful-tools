@@ -1,0 +1,12 @@
+Convolutional Neural Network-Based Transfer Learning for Optical Aerial Images Change Detection
+-------------------------------
+You, Y., Cao, J., &amp; Zhou, W. (2020). A Survey of Change Detection Methods Based on Remote Sensing Images for Multi-Source and Multi-Objective Scenarios. <i>Remote Sensing</i>, <i>12</i>(15), 2460.
+Zhang, Y., Zhang, S., Li, Y., &amp; Zhang, Y. (2020). Coarse-to-Fine Satellite Images Change Detection Framework via Boundary-Aware Attentive Network. <i>Sensors</i>, <i>20</i>(23), 6735.
+Lu, T. C. (2020). CNN Convolutional layer optimisation based on quantum evolutionary algorithm. <i>Connection Science</i>, 1-13.
+Ghasemian, N., &amp; Shahhosseini, R. (2020). Hyperspectral multiple-change detection framework based on sparse representation and support vector data description algorithms. <i>Journal of Applied Remote Sensing</i>, <i>14</i>(1), 014523.
+Song, A., &amp; Kim, Y. (2020). Transfer Change Rules from Recurrent Fully Convolutional Networks for Hyperspectral Unmanned Aerial Vehicle Images without Ground Truth Data. <i>Remote Sensing</i>, <i>12</i>(7), 1099.
+Zhou, Y., &amp; Li, X. (2020). Unsupervised Self-training Algorithm Based on Deep Learning for Optical Aerial Images Change Detection. <i>arXiv preprint arXiv:2010.07469</i>.
+정미라, 최호성, &amp; 최재완. (2020). 손실함수의 특성에 따른 UNet++ 모델에 의한 변화탐지 결과 분석. <i>Korean Journal of Remote Sensing</i>, <i>36</i>(5-2), 929-937.
+Shi, N., Chen, K., Zhou, G., &amp; Sun, X. (2020). A Feature Space Constraint-Based Method for Change Detection in Heterogeneous Images. <i>Remote Sensing</i>, <i>12</i>(18), 3057.
+Shi, W., Zhang, M., Zhang, R., Chen, S., &amp; Zhan, Z. (2020). Change Detection Based on Artificial Intelligence: State-of-the-Art and Challenges. <i>Remote Sensing</i>, <i>12</i>(10), 1688.
+Yang, M., Jiao, L., Hou, B., Liu, F., &amp; Yang, S. (2020). Selective Adversarial Adaptation-Based Cross-Scene Change Detection Framework in Remote Sensing Images. <i>IEEE Transactions on Geoscience and Remote Sensing</i>.

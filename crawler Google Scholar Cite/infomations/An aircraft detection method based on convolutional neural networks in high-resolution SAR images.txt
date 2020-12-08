@@ -1,0 +1,19 @@
+An aircraft detection method based on convolutional neural networks in high-resolution SAR images
+-------------------------------
+Jiao, J., Zhang, Y., Sun, H., Yang, X., Gao, X., Hong, W., ... &amp; Sun, X. (2018). A densely connected end-to-end neural network for multiscale and multiscene SAR ship detection. <i>IEEE Access</i>, <i>6</i>, 20881-20892.
+Yang, X., Sun, H., Sun, X., Yan, M., Guo, Z., &amp; Fu, K. (2018). Position detection and direction prediction for arbitrary-oriented ships via multitask rotation region convolutional neural network. <i>IEEE Access</i>, <i>6</i>, 50839-50849.
+戴伟聪, 金龙旭, 李国宁, &amp; 郑志强. (2018). 遥感图像中飞机的改进 YOLOv3 实时检测算法. <i>光电工程</i>, <i>45</i>(12), 180350.
+Gao, X., Sun, X., Zhang, Y., Yan, M., Xu, G., Sun, H., ... &amp; Fu, K. (2018). An end-to-end neural network for road extraction from remote sensing imagery by multiple feature pyramid network. <i>IEEE Access</i>, <i>6</i>, 39401-39414.
+Yan, Z., Yan, M., Sun, H., Fu, K., Hong, J., Sun, J., ... &amp; Sun, X. (2018). Cloud and cloud shadow detection using multilevel feature fused segmentation network. <i>IEEE Geoscience and Remote Sensing Letters</i>, <i>15</i>(10), 1600-1604.
+郭智, 宋萍, 张义, 闫梦龙, 孙显, &amp; 孙皓. (2018). 基于深度卷积神经网络的遥感图像飞机目标检测方法. <i>电子与信息学报</i>, <i>40</i>(11), 2684-2690.
+Li, Y., Fu, K., Sun, H., &amp; Sun, X. (2018). An aircraft detection framework based on reinforcement learning and convolutional neural networks in remote sensing images. <i>Remote Sensing</i>, <i>10</i>(2), 243.
+Weicong, D., Longxu, J., Guoning, L., &amp; Zhiqiang, Z. (2018). Real-time airplane detection algorithm in remote-sensing images based on improved YOLOv3. <i>Opto-Electronic Engineering</i>, <i>45</i>(12), 180350.
+崔先亮, 陈立福, 邢学敏, &amp; 袁志辉. (2019). 基于频带特征融合的 GL-CNN 遥感图像场景分类. <i>遥感技术与应用</i>, <i>34</i>(4), 712-719.
+Wang, Y., Zhang, Y., Zhang, Y., Zhao, L., Sun, X., &amp; Guo, Z. (2019). SARD: Towards scale-aware rotated object detection in aerial imagery. <i>IEEE Access</i>, <i>7</i>, 173855-173865.
+Cao, Z., Zhang, T., Diao, W., Zhang, Y., Lyu, X., Fu, K., &amp; Sun, X. (2019). Meta-seg: A generalized meta-learning framework for multi-class few-shot semantic segmentation. <i>IEEE Access</i>, <i>7</i>, 166109-166121.
+Nie, X., Duan, M., Ding, H., Hu, B., &amp; Wong, E. K. (2020). Attention Mask R-CNN for ship detection and segmentation from remote sensing images. <i>IEEE Access</i>, <i>8</i>, 9325-9334.
+韩萍, &amp; 宋厅华. (2019). 区域筛选与多级特征判别相结合的 PolSAR 图像飞机目标检测.
+Zhang, Z., Diao, W., Zhang, W., Yan, M., Gao, X., &amp; Sun, X. (2019). LAM: Remote Sensing Image Captioning with Label-Attention Mechanism. <i>Remote Sensing</i>, <i>11</i>(20), 2349.
+Qian, G. U. O., Haipeng, W. A. N. G., &amp; Feng, X. U. (2020). Research Progress on Aircraft Detection and Recognition in SAR Imagery. <i>雷达学报</i>, <i>9</i>(3), 497-513.
+Guo, Q., Wang, H., &amp; Xu, F. (2020). Scattering Enhanced Attention Pyramid Network for Aircraft Detection in SAR Images. <i>IEEE Transactions on Geoscience and Remote Sensing</i>.
+Zhao, P., Gao, H., Zhang, Y., Li, H., &amp; Yang, R. (2019, July). An Aircraft Detection Method Based on Improved Mask R-CNN in Remotely Sensed Imagery. In <i>IGARSS 2019-2019 IEEE International Geoscience and Remote Sensing Symposium</i> (pp. 1370-1373). IEEE.

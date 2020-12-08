@@ -1,0 +1,6 @@
+Ground Moving Target Indication Based on Optical Flow in Single-Channel SAR
+-------------------------------
+Tang, X., Zhang, X., Shi, J., Wei, S., &amp; Tian, B. (2019). Ground Moving Target 2-D Velocity Estimation and Refocusing for Multichannel Maneuvering SAR with Fixed Acceleration. <i>Sensors</i>, <i>19</i>(17), 3695.
+Zhu, H., Yan, X., Tang, H., Chang, Y., Li, B., &amp; Yuan, X. (2020). Moving Object Detection With Deep CNNs. <i>IEEE Access</i>, <i>8</i>, 29729-29741.
+Zhu, H., Wei, H., Li, B., Yuan, X., &amp; Kehtarnavaz, N. (2020). Real-Time Moving Object Detection in High-Resolution Video Sensing. <i>Sensors</i>, <i>20</i>(12), 3591.
+Nguyen, D. V., &amp; Choi, J. (2020). Toward Scalable Video Analytics Using Compressed-Domain Features at the Edge. <i>Applied Sciences</i>, <i>10</i>(18), 6391.
