@@ -1,0 +1,4 @@
+1.main.py 为主文件  ，  可以设置start_from, start_index等属性
+2.cookie.txt 为cookie文件
+3.concat.py 用于生成最后的xls文件
+4.tools.py用于对爬下来没有爬成功的文件进行整合
